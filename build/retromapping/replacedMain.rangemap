@@ -1,0 +1,116 @@
+Unsupposrted library path: /Users/0x77/IdeaProjects/KubecraftMod/build/classes/java/api
+Unsupposrted library path: /Users/0x77/IdeaProjects/KubecraftMod/build/resources/api
+Symbol range map extraction starting
+Processing 1 files
+startProcessing "page/a0x77/kubecraft/Kubecraft.java" md5: 7fa71ae294856b798a226975b01d9386
+@|page/a0x77/kubecraft/Kubecraft.java|8|28|page.a0x77.kubecraft|package|page.a0x77.kubecraft|(file)
+Class Start: page.a0x77.kubecraft.Kubecraft
+   @|page/a0x77/kubecraft/Kubecraft.java|735|738|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|page/a0x77/kubecraft/Kubecraft.java|748|753|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|page/a0x77/kubecraft/Kubecraft.java|756|765|Kubecraft|class|page.a0x77.kubecraft.Kubecraft|false
+   @|page/a0x77/kubecraft/Kubecraft.java|766|772|MOD_ID|field|page.a0x77.kubecraft.Kubecraft|MOD_ID
+   @|page/a0x77/kubecraft/Kubecraft.java|782|786|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|page/a0x77/kubecraft/Kubecraft.java|789|798|Kubecraft|class|page.a0x77.kubecraft.Kubecraft|false
+   @|page/a0x77/kubecraft/Kubecraft.java|799|807|MOD_NAME|field|page.a0x77.kubecraft.Kubecraft|MOD_NAME
+   @|page/a0x77/kubecraft/Kubecraft.java|817|824|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|page/a0x77/kubecraft/Kubecraft.java|827|836|Kubecraft|class|page.a0x77.kubecraft.Kubecraft|false
+   @|page/a0x77/kubecraft/Kubecraft.java|837|844|VERSION|field|page.a0x77.kubecraft.Kubecraft|VERSION
+   @|page/a0x77/kubecraft/Kubecraft.java|860|869|Kubecraft|class|page.a0x77.kubecraft.Kubecraft|false
+   @|page/a0x77/kubecraft/Kubecraft.java|897|903|String|class|java.lang.String|false
+   @|page/a0x77/kubecraft/Kubecraft.java|897|903|String|class|java.lang.String|false
+   @|page/a0x77/kubecraft/Kubecraft.java|904|910|MOD_ID|field|page.a0x77.kubecraft.Kubecraft|MOD_ID|
+   @|page/a0x77/kubecraft/Kubecraft.java|950|956|String|class|java.lang.String|false
+   @|page/a0x77/kubecraft/Kubecraft.java|950|956|String|class|java.lang.String|false
+   @|page/a0x77/kubecraft/Kubecraft.java|957|965|MOD_NAME|field|page.a0x77.kubecraft.Kubecraft|MOD_NAME|
+   @|page/a0x77/kubecraft/Kubecraft.java|1005|1011|String|class|java.lang.String|false
+   @|page/a0x77/kubecraft/Kubecraft.java|1005|1011|String|class|java.lang.String|false
+   @|page/a0x77/kubecraft/Kubecraft.java|1012|1019|VERSION|field|page.a0x77.kubecraft.Kubecraft|VERSION|
+   @|page/a0x77/kubecraft/Kubecraft.java|1183|1192|Kubecraft|class|page.a0x77.kubecraft.Kubecraft|false
+   @|page/a0x77/kubecraft/Kubecraft.java|1144|1156|Mod.Instance|class|net.minecraftforge.fml.common.Mod.Instance|false
+   @|page/a0x77/kubecraft/Kubecraft.java|1157|1163|MOD_ID|field|page.a0x77.kubecraft.Kubecraft|MOD_ID
+   @|page/a0x77/kubecraft/Kubecraft.java|1183|1192|Kubecraft|class|page.a0x77.kubecraft.Kubecraft|false
+   @|page/a0x77/kubecraft/Kubecraft.java|1193|1201|INSTANCE|field|page.a0x77.kubecraft.Kubecraft|INSTANCE|
+   Method Start: preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|page/a0x77/kubecraft/Kubecraft.java|1448|1453|event|param|page.a0x77.kubecraft.Kubecraft|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|page/a0x77/kubecraft/Kubecraft.java|1381|1397|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|page/a0x77/kubecraft/Kubecraft.java|1414|1421|preinit|method|page.a0x77.kubecraft.Kubecraft|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|page/a0x77/kubecraft/Kubecraft.java|1422|1447|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+   Method End: preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|page/a0x77/kubecraft/Kubecraft.java|1619|1624|event|param|page.a0x77.kubecraft.Kubecraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|page/a0x77/kubecraft/Kubecraft.java|1558|1574|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|page/a0x77/kubecraft/Kubecraft.java|1591|1595|init|method|page.a0x77.kubecraft.Kubecraft|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|page/a0x77/kubecraft/Kubecraft.java|1596|1618|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Class Start: page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler
+      @|page/a0x77/kubecraft/Kubecraft.java|1641|1663|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+      @|page/a0x77/kubecraft/Kubecraft.java|1690|1716|AuthClientOnlyEventHandler|class|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler|false
+      @|page/a0x77/kubecraft/Kubecraft.java|1748|1752|sent|field|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler|sent|
+      Method Start: onEvent(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V
+         @|page/a0x77/kubecraft/Kubecraft.java|1835|1840|event|param|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler|onEvent|(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V|event|0
+         @|page/a0x77/kubecraft/Kubecraft.java|1764|1778|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+         @|page/a0x77/kubecraft/Kubecraft.java|1806|1813|onEvent|method|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler|onEvent|(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V
+         @|page/a0x77/kubecraft/Kubecraft.java|1814|1834|EntityJoinWorldEvent|class|net.minecraftforge.event.entity.EntityJoinWorldEvent|false
+         @|page/a0x77/kubecraft/Kubecraft.java|1856|1861|Timer|class|javax.swing.Timer|false
+         @|page/a0x77/kubecraft/Kubecraft.java|1874|1879|Timer|class|javax.swing.Timer|false
+         @|page/a0x77/kubecraft/Kubecraft.java|1890|1904|ActionListener|class|java.awt.event.ActionListener|false
+         Anon Class Start: page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler$1
+            Method Start: actionPerformed(Ljava/awt/event/ActionEvent;)V
+               @|page/a0x77/kubecraft/Kubecraft.java|2006|2007|e|param|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler$1|actionPerformed|(Ljava/awt/event/ActionEvent;)V|e|0
+               @|page/a0x77/kubecraft/Kubecraft.java|1926|1934|Override|class|java.lang.Override|false
+               @|page/a0x77/kubecraft/Kubecraft.java|1963|1978|actionPerformed|method|java.awt.event.ActionListener|actionPerformed|(Ljava/awt/event/ActionEvent;)V
+               @|page/a0x77/kubecraft/Kubecraft.java|1979|2005|java.awt.event.ActionEvent|class|java.awt.event.ActionEvent|false
+               @|page/a0x77/kubecraft/Kubecraft.java|2031|2037|String|class|java.lang.String|false
+               @|page/a0x77/kubecraft/Kubecraft.java|2049|2055|System|class|java.lang.System|false
+               @|page/a0x77/kubecraft/Kubecraft.java|2056|2062|getenv|method|java.lang.System|getenv|(Ljava/lang/String;)Ljava/lang/String;
+               @|page/a0x77/kubecraft/Kubecraft.java|2110|2114|sent|field|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler|sent
+               @|page/a0x77/kubecraft/Kubecraft.java|2127|2133|length|method|java.lang.CharSequence|length|()I
+               @|page/a0x77/kubecraft/Kubecraft.java|2141|2150|Minecraft|class|net.minecraft.client.Minecraft|false
+               @|page/a0x77/kubecraft/Kubecraft.java|2151|2163|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+               @|page/a0x77/kubecraft/Kubecraft.java|2166|2172|player|field|net.minecraft.client.Minecraft|player
+               @|page/a0x77/kubecraft/Kubecraft.java|2173|2188|sendChatMessage|method|net.minecraft.client.entity.EntityPlayerSP|sendChatMessage|(Ljava/lang/String;)V
+               @|page/a0x77/kubecraft/Kubecraft.java|2232|2236|sent|field|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler|sent
+            Method End: actionPerformed(Ljava/awt/event/ActionEvent;)V
+         Anon Class End: page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler$1
+         @|page/a0x77/kubecraft/Kubecraft.java|2295|2299|sent|field|page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler|sent
+         @|page/a0x77/kubecraft/Kubecraft.java|2325|2335|setRepeats|method|javax.swing.Timer|setRepeats|(Z)V
+         @|page/a0x77/kubecraft/Kubecraft.java|2366|2371|start|method|javax.swing.Timer|start|()V
+      Method End: onEvent(Lnet/minecraftforge/event/entity/EntityJoinWorldEvent;)V
+   Class End  : page.a0x77.kubecraft.Kubecraft.AuthClientOnlyEventHandler
+   Method Start: postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|page/a0x77/kubecraft/Kubecraft.java|2581|2586|event|param|page.a0x77.kubecraft.Kubecraft|postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|page/a0x77/kubecraft/Kubecraft.java|2512|2528|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|page/a0x77/kubecraft/Kubecraft.java|2545|2553|postinit|method|page.a0x77.kubecraft.Kubecraft|postinit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|page/a0x77/kubecraft/Kubecraft.java|2554|2580|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+   Method End: postinit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+   Class Start: page.a0x77.kubecraft.Kubecraft.Blocks
+      @|page/a0x77/kubecraft/Kubecraft.java|2841|2866|GameRegistry.ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+      @|page/a0x77/kubecraft/Kubecraft.java|2867|2873|MOD_ID|field|page.a0x77.kubecraft.Kubecraft|MOD_ID
+      @|page/a0x77/kubecraft/Kubecraft.java|2899|2905|Blocks|class|page.a0x77.kubecraft.Kubecraft.Blocks|false
+   Class End  : page.a0x77.kubecraft.Kubecraft.Blocks
+   Class Start: page.a0x77.kubecraft.Kubecraft.Items
+      @|page/a0x77/kubecraft/Kubecraft.java|3181|3206|GameRegistry.ObjectHolder|class|net.minecraftforge.fml.common.registry.GameRegistry.ObjectHolder|false
+      @|page/a0x77/kubecraft/Kubecraft.java|3207|3213|MOD_ID|field|page.a0x77.kubecraft.Kubecraft|MOD_ID
+      @|page/a0x77/kubecraft/Kubecraft.java|3239|3244|Items|class|page.a0x77.kubecraft.Kubecraft.Items|false
+   Class End  : page.a0x77.kubecraft.Kubecraft.Items
+   Class Start: page.a0x77.kubecraft.Kubecraft.ObjectRegistryHandler
+      @|page/a0x77/kubecraft/Kubecraft.java|3619|3641|Mod.EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+      @|page/a0x77/kubecraft/Kubecraft.java|3666|3687|ObjectRegistryHandler|class|page.a0x77.kubecraft.Kubecraft.ObjectRegistryHandler|false
+      Method Start: addItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|page/a0x77/kubecraft/Kubecraft.java|3870|3875|event|param|page.a0x77.kubecraft.Kubecraft.ObjectRegistryHandler|addItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+         @|page/a0x77/kubecraft/Kubecraft.java|3790|3804|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+         @|page/a0x77/kubecraft/Kubecraft.java|3832|3840|addItems|method|page.a0x77.kubecraft.Kubecraft.ObjectRegistryHandler|addItems|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|page/a0x77/kubecraft/Kubecraft.java|3841|3863|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+         @|page/a0x77/kubecraft/Kubecraft.java|3864|3868|Item|class|net.minecraft.item.Item|false
+      Method End: addItems(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      Method Start: addBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|page/a0x77/kubecraft/Kubecraft.java|4316|4321|event|param|page.a0x77.kubecraft.Kubecraft.ObjectRegistryHandler|addBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+         @|page/a0x77/kubecraft/Kubecraft.java|4234|4248|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+         @|page/a0x77/kubecraft/Kubecraft.java|4276|4285|addBlocks|method|page.a0x77.kubecraft.Kubecraft.ObjectRegistryHandler|addBlocks|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+         @|page/a0x77/kubecraft/Kubecraft.java|4286|4308|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+         @|page/a0x77/kubecraft/Kubecraft.java|4309|4314|Block|class|net.minecraft.block.Block|false
+      Method End: addBlocks(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Class End  : page.a0x77.kubecraft.Kubecraft.ObjectRegistryHandler
+Class End  : page.a0x77.kubecraft.Kubecraft
+endProcessing "page/a0x77/kubecraft/Kubecraft.java"
+

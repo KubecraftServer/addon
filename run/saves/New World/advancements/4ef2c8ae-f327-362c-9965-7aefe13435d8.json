@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-05-06 23:06:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "extreme_hills_with_trees": "2020-05-06 23:06:22 +0300",
+      "extreme_hills": "2020-05-06 23:06:01 +0300"
+    },
+    "done": false
+  }
+}

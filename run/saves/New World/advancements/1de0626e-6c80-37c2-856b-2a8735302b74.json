@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-05-05 20:09:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2020-05-05 20:09:06 +0300"
+    },
+    "done": false
+  }
+}
